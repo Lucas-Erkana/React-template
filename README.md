@@ -1,64 +1,38 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
+<div align="center">
+  <h1><b>Name of Project 🏠️🛠️</b></h1>
+</div>
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-  - [Tech Stack](#tech-stack)
-  - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-  - [Project Images](#Project-Images)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [ Name of Project 🏠️🛠️ ](#-Name of Project-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Country Web App] <a name="about-project"></a>
+# Name of Project 🏠️🛠️ <a name="about-project"></a>
 
-**The Country Web App is a user-friendly creation built with React, making it an intuitive and interactive single-page application. By employing client-side rendering, it ensures a seamless user experience. This app dynamically fetches country data from the reliable source of https://api-ninjas.com/api/country, offering up-to-date information at your fingertips.
+<b>Name of Project</b> is a website...........................................
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
 
 <details>
   <summary>Client</summary>
@@ -67,47 +41,18 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://nodejs.com/">Node.js</a></li>
-  </ul>
-</details>
+### App Screenshot
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">No DB</a></li>
-  </ul>
-</details>
 
-<!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Initial State of Kanban Board
 
-- **Display List of countries**
-- **Display details of each country**
-- **Enter a GDP value to filter countries according to minimum GDP**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+### 🚀 Live Demo <a name="live-demo"></a>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://countrywiseinfo.netlify.app/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Project-Images <a name="Project-Images"></a>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="./public/mobile.png" alt="mobile" width="25%">
-  <img src="./public/desktop.png" alt="desktop" width="70%">
-  <img src="./public/details-desktop.png" alt="mobile" width="70%">
-  <img src="./public/details-mobile.png" alt="desktop" width="25%">
-</div>
-
+Click <a href="">Here</a> to go live
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,64 +60,69 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Node.js.
 
-```sh
- node js installed
- Git
- VSCODE editor
- Installed Web browser( like Chrome or Firefox)
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
 ```
 
+Likewise for Node.js and npm for package installation.
+```
+$ node --version && npm --version
+```
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository using the GitHub link provided below.
 
-```sh
-  cd react-capstone
-  git clone https://github.com/Kashif-Saleem-Ghuman/react-capstone.git
-```
 
 ### Install
 
-Install this project with:
+In the terminal, go to your file directory and run this command.
 
-```sh
-  cd my-project
-  npm install
+```
+$ git clone https://github.com/Lucash2022/Name of Project-Frontend.git
 ```
 
-### Usage
 
-To run the project, execute the following command:
 
-```sh
-  npm start
-```
+### To run the project, execute the following command:
+
+### npm install
+
+to install all the dependencies used in the project
+
+### npm run build
+
+to build this project from the source folder using webpack
+
+### npm run start
+
+in order to start a server and deploy the project locally
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.
+
+You may also see any lint errors in the console.
+
+
 
 ### Run tests
 
 To run tests, run the following command:
 
-```sh
-  npm test
 ```
-
-### Deployment
-
-You can deploy this project using Github pages, render or Netlify.
-
-<!--
-Example:
-
-```sh
-
+$ npm test
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,67 +130,51 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Lucas Erkana**
 
-👤 **Kashif Saleem**
+- GitHub: [@Lucash2022](https://github.com/Lucash2022)
+- Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
+- LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
+- Frontend Mentor - [@Lucash2022](https://www.frontendmentor.io/profile/Lucash2022)
 
-- GitHub:[![Kashif](https://img.shields.io/badge/-Kashif-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/Kashif-Saleem-Ghuman)
-- Twitter:[![Kashif](https://img.shields.io/badge/-Kashif-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/Kashif14Saleem)
-- LinkedIn:[![Kashif](https://img.shields.io/badge/-Kashif-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://www.linkedin.com/in/kashifsaleemghuman/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Add About Me Page**
-- [ ] **Add Page showing GDP graphical illustration**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kashif-Saleem-Ghuman/react-capstone/issues).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give a⭐️ and share with your friends.
+
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to give Credit to 🙏 [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
-- [Microverse](https://www.microverse.org/)
-- [API Ninjas](https://api-ninjas.com/api/country)
-- Thanks to the Microverse team for the great curriculum.
-- Hat tip to anyone whose code was used
-- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
+I would like to thank:
+- To any one who contributed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
-- **How to install the redux toolkit?**
-
-  - `npm i react-redux @reduxjs/toolkit`
+- [ ]  Feature one
+- [ ]  Feature two
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Kashif-Saleem-Ghuman/react-capstone/blob/main/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
