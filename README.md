@@ -40,11 +40,11 @@
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### App Screenshot
 
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### Initial State of Kanban Board
 
 
@@ -53,6 +53,14 @@
 ### 🚀 Live Demo <a name="live-demo"></a>
 
 Click <a href="">Here</a> to go live
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Key Features <a name="key-features"></a>
+
+> - Feature one
+> - Feature two
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,8 +74,12 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-- [x] A web browser like Google Chrome.
-- [x] A code editor like Visual Studio Code with Git and Node.js.
+
+- Mac or PC
+- Use npm as package manager
+- Understanding of React
+- A web browser like Google Chrome.
+- A code editor like Visual Studio Code with Git and Node.js.
 
 You can check if Git is installed by running the following command in the terminal.
 ```
