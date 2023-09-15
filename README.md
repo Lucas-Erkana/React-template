@@ -7,7 +7,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [ Name of Project 🏠️🛠️ ](#-Name of Project-)
+- [ Name of Project 🏠️🛠️ ](#-about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
